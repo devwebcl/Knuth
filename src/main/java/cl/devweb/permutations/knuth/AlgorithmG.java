@@ -20,7 +20,7 @@ public class AlgorithmG {
                 *
                 * Given a Sims table (S1, S2,
                 * ..., Sn-1) where each Sk has k + 1 elements o(k,j) as just described, this
-                * algorithm generates all permutations a0a1...an-1 of {0 ,1, ..., n -1ç, using
+                * algorithm generates all permutations a0a1...an-1 of {0 ,1, ..., n -1, using
                 * an auxiliary control table cn ...c2c1.
                 * 
                 *  
