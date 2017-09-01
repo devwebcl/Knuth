@@ -73,6 +73,7 @@ public class AlgorithmX {
 
 
               //X3. [Test a1...ak.]
+          /* TODO: unfinished !
               a[k] = q;
 
               if
@@ -123,7 +124,7 @@ public class AlgorithmX {
               for(int i=1; i<factorial(n); i++) {
                       System.out.println( "t["+i+"]="+t[i]+";" );
               }
-
+           */
       }
 
 
